@@ -1,0 +1,26 @@
+{
+  "name": "cdp",
+  "version": "1.0.0",
+  "description": "a program to filter a list of elements containing a pattern",
+  "main": "./src/app.js",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "jest .",
+    "start": "node ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aelkardoudi/cdp.git"
+  },
+  "author": "ael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aelkardoudi/cdp/issues"
+  },
+  "homepage": "https://github.com/aelkardoudi/cdp#readme",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
